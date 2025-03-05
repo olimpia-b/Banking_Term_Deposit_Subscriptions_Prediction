@@ -8,5 +8,5 @@ The objective of this study is to develop a predictive model that accurately det
 This project has practical implications for the banking and insurance sectors by enhancing marketing efficiency. A predictive model can help identify clients most likely to subscribe to term deposits, enabling more targeted outreach and resource optimization. Additionally, refining campaign strategies—such as messaging, timing, and contact frequency—can improve conversion rates and revenue. Furthermore, accurate predictions can support personalized investment planning, helping clients make informed financial decisions while benefiting the institution.
 
 ### Data Source
-[UC Irvine Machine Learning Repository] (https://archive.ics.uci.edu/dataset/222/bank+marketing) <br>
-The data pertains to direct marketing campaigns (phone calls) conducted by a Portuguese banking institution. The objective of classification is to predict whether the client will opt for a term deposit or not. 
+[UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/222/bank+marketing) <br>
+The data pertains to direct marketing campaigns (phone calls) conducted by a Portuguese banking institution. The objective of classification is to predict whether the client will opt for a term deposit or not. It is an imbalanced dataset with 45,211 rows and 16 columns which contains basic client data, social and economic attributes and other information
