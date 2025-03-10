@@ -10,3 +10,14 @@ This project has practical implications for the banking and insurance sectors by
 ### Data Source
 [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/222/bank+marketing) <br>
 The data pertains to direct marketing campaigns (phone calls) conducted by a Portuguese banking institution. The objective of classification is to predict whether the client will opt for a term deposit or not. It is an imbalanced dataset with 45,211 rows and 16 columns which contains basic client data, social and economic attributes and other information
+
+### Methodologies Used
+At First Feature Selection (Select KBest, RFECV) is implemened followed by these algorithms
+1. Class balancing techniques (Random Over Sampling, SMOTE, ADASYN, Border Line SMOTE)
+2. KNN
+3. SVM
+4. Logistic Regression
+5. Decision Tree
+6. Random Forest
+7. Ensemble Learning ( Boosting)
+And Finally Hyperparamter Tuning using Grid Search
